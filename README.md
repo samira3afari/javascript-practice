@@ -1,17 +1,11 @@
-# JavaScript Functions Practice
+# JavaScript Practice
 
-Practice with JavaScript functions, parameters, and return values.
+My JavaScript learning journey.
 
-## Functions
-- `add(a, b)` — returns the sum
-- `greet(name)` — prints a greeting
-- `isEven(number)` — returns "زوج" or "فرد"
-- `area(width, height)` — returns the area
-- `calculate(num1, num2, operator)` — basic calculator
+## Topics
+### Functions (`function.html`, `function.js`)
+- `add`, `greet`, `isEven`, `area`, `calculate`
 
-## Concepts
-- Function definition
-- Parameters and arguments
-- Return values
-- `if / else if / else`
-- Difference between `=`, `==`, and `===`
+### Arrays (`arr.html`, `arr.js`)
+- `push`, `pop`, `unshift`, `shift`, `includes`, `slice`, `join`
+- `sumArray`, `findMax`, `filterEven`
